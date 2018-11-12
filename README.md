@@ -1,0 +1,1 @@
+This tool help to count all instances in all Alicloud regions.
